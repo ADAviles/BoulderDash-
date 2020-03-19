@@ -29,10 +29,14 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+        time: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
         value: {x: 0.62, y: 0.95326734, z: 4}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
@@ -69,10 +73,14 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+        time: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -116,10 +124,14 @@ AnimationClip:
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_StopTime: 3.2666667
 =======
     m_StopTime: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+    m_StopTime: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -149,10 +161,14 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+        time: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
         value: 0.62
         inSlope: 0
         outSlope: 0
@@ -181,10 +197,14 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+        time: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
         value: 0.95326734
         inSlope: 0
         outSlope: 0
@@ -213,10 +233,14 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+        time: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
         value: 4
         inSlope: 0
         outSlope: 0
@@ -254,10 +278,14 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+        time: 3.2666667
+>>>>>>> parent of e364509... Update AAROB.anim
         value: 1
         inSlope: Infinity
         outSlope: Infinity
