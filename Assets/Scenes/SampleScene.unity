@@ -1316,6 +1316,7 @@ MonoBehaviour:
   Target: {fileID: 1005733089}
   smoothSpeed: 5
   offset: {x: 0, y: 3, z: -1.3}
+<<<<<<< HEAD
 --- !u!1 &1005733084
 GameObject:
   m_ObjectHideFlags: 0
@@ -1440,6 +1441,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 5
+=======
+--- !u!4 &1005733089 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2000689204834613721, guid: 8e405b9bc88940245a3d51fe3ec5b41b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2000689205299281208}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 702aa94... Tuning
 --- !u!1 &1047943140
 GameObject:
   m_ObjectHideFlags: 0
