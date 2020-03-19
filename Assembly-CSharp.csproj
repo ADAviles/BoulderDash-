@@ -62,13 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Hooman.cs" />
-    <Compile Include="Assets\Scripts\NullChildRotate.cs" />
-    <Compile Include="Assets\Scripts\SC_Boulder.cs" />
     <Compile Include="Assets\Scripts\control.cs" />
-    <None Include="Assets\AllSkyFree\AllSkyFree_Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Brendan_2/Documents/BoulderDash-/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
