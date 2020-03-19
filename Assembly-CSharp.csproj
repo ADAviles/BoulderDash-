@@ -62,11 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\Hooman.cs" />
-    <Compile Include="Assets\Scripts\control.cs" />
-=======
     <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\HideCursor.cs" />
@@ -75,7 +70,6 @@
     <Compile Include="Assets\Scripts\SC_Boulder.cs" />
     <Compile Include="Assets\Scripts\control.cs" />
     <None Include="Assets\AllSkyFree\AllSkyFree_Readme.txt" />
->>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Brendan_2/Documents/BoulderDash-/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
