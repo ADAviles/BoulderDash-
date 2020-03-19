@@ -716,6 +716,7 @@ AudioSource:
   Pan2D: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   rolloffMode: 0
 =======
   rolloffMode: 1
@@ -723,6 +724,9 @@ AudioSource:
 =======
   rolloffMode: 1
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+  rolloffMode: 0
+>>>>>>> parent of 020edee... changed cursor
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -757,6 +761,7 @@ AudioSource:
       time: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: 1
@@ -764,6 +769,9 @@ AudioSource:
 =======
       value: 1
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+      value: 0
+>>>>>>> parent of 020edee... changed cursor
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -816,12 +824,15 @@ GameObject:
   - component: {fileID: 1589453744}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - component: {fileID: 1589453747}
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
   - component: {fileID: 1589453747}
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 020edee... changed cursor
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -896,6 +907,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -915,6 +927,8 @@ MonoBehaviour:
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 020edee... changed cursor
 --- !u!1 &1639171298
 GameObject:
   m_ObjectHideFlags: 0

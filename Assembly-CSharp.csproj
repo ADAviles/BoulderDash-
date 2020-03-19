@@ -64,7 +64,6 @@
   <ItemGroup>
     <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\HideCursor.cs" />
     <Compile Include="Assets\Scripts\Hooman.cs" />
     <Compile Include="Assets\Scripts\NullChildRotate.cs" />
     <Compile Include="Assets\Scripts\SC_Boulder.cs" />
