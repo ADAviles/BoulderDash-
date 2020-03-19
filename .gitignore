@@ -7134,6 +7134,7 @@ Library/ShaderCache/c/c7a2748a269817bb2f3ea93cd1f460f2.bin
 Library/ShaderCache/d/d3bb4e4f4c54965f4193be96d39bc814.bin
 Library/ShaderCache/d/d728f27ec8688874dffca96ff3d98134.bin
 Library/ShaderCache/d/d9baada3683020989e4bdd41cb9e3fd6.bin
+<<<<<<< HEAD
 Library/ShaderCache/d/dad00b477592b54e06cd3f2f86d9e259.bin
 Library/ShaderCache/d/dce6740e6bef58aefc60ea6a3912b58e.bin
 Library/ShaderCache/e/e1a216459ffd33d0a06b22400195a28a.bin
@@ -11842,3 +11843,51 @@ Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_A
 Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified.psd
 Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified.psd.meta
 >>>>>>> parent of 3987dfb... Update .gitignore
+=======
+Library/ShaderCache/f/fdae8ef07f9ad741bd7958bb427e5b93.bin
+Library/shadercompiler-UnityShaderCompiler.exe7.log
+Temp/input-306d08dd7d6d1b74ca1a3d438acbf3ee.unwrap
+Temp/output-6cc279a976c837a4689572a71fbc0ef1.unwrap
+Temp/UnityTempFile-13055ee9956cb1c41b6e2bfcbb8e1a41
+Temp/UnityTempFile-1f20933c800e84d4695b7c0c8e9e6f72
+Temp/UnityTempFile-261370d0f28ef9944a9c1a847209e769
+Temp/UnityTempFile-2868af87d19c59c429155eaf2d1cd2c8
+Temp/UnityTempFile-2ad88d097da4e624a96a3fc879e0bcd0
+Temp/UnityTempFile-2d4527226f3741e4bbdd7092a7b84daa
+Temp/UnityTempFile-2da3fd71f00e7234b9b622e06bb523e8
+Temp/UnityTempFile-328ab945173bb4348af2e8059d324cda
+Temp/UnityTempFile-38868af3ca28704478a646f8a8cf755e
+Temp/UnityTempFile-38fd517a5b6d3b0438c641b5c66f8e47
+Temp/UnityTempFile-50ac214cc233cad43bf6bb5ed8f72bcb
+Temp/UnityTempFile-56185c5ff0c75e548840167183bb2fce
+Temp/UnityTempFile-664c05b1bf7c0a147b80188dca382b4d
+Temp/UnityTempFile-6ac625c61c1058346b2a21fd7b0338cb
+Temp/UnityTempFile-6cbd0cadb190ebc4b84b0076aa694980
+Temp/UnityTempFile-709a1285595bf854786f5b46c8e91761
+Temp/UnityTempFile-754b5bb4b2d2c2142b056bbb1d6229c2
+Temp/UnityTempFile-7d2c11aa7bfe1694db6dae41d83b38a2
+Temp/UnityTempFile-7dd3f4f0f4a26b042855696baf324d4f
+Temp/UnityTempFile-7e767d4d4abc1064b9459cc2e089bab7
+Temp/UnityTempFile-8849c0438fb64e643b763cc2c85785f3
+Temp/UnityTempFile-8f4d29a4dce62524590c0fb4ee6eaf3b
+Temp/UnityTempFile-8fec08c910d481d4397ade3d9dabff83
+Temp/UnityTempFile-b0da8a6d50028d64d8d2dce25c1ba1ff
+Temp/UnityTempFile-b15bf8398f7bf6c4bad257df1b8c8a13
+Temp/UnityTempFile-b2e66d8284c36064b98bf0b3c88f2a56
+Temp/UnityTempFile-b664f74eb13d6484b933121d453ea564
+Temp/UnityTempFile-c2b461fa04ecc7f47a4df296cc497696
+Temp/UnityTempFile-c6ebdb73d7cc5a4478a0af08ab54bbc3
+Temp/UnityTempFile-cc1507c34b793244c9e9acd2aa0fdabe
+Temp/UnityTempFile-cc231a33d02c54c41bd42dc6a2596279
+Temp/UnityTempFile-d6ae0ac93b8e2964db061a7cb8045fbd
+Temp/UnityTempFile-d91dbbc5c3bea0e4cb1808dc95adda56
+Temp/UnityTempFile-db16a06250cddce499dfc46297f8557f
+Temp/UnityTempFile-e6138b8b6d0eaa740aba1328c2d9263c
+Temp/UnityTempFile-e72bb9a47be14184798653de0b4ea083
+Temp/UnityTempFile-e7d687e8a22acd445ba160627557811e
+Temp/UnityTempFile-ea7bd3d48ca1b164da150af14702d2a1
+Temp/UnityTempFile-ee4ba761b2a955a4cbc850d9eae9f768
+Temp/UnityTempFile-f16de1433bf5e1541a9b57792bde2f09
+Temp/UnityTempFile-f93364ecc4468da45a6f4d597256babf
+Temp/UnityTempFile-fbc38b3bc4bdcd8499c208a290bdcc5e
+>>>>>>> parent of 2245e73... Update .gitignore
