@@ -1320,6 +1320,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
@@ -1424,6 +1427,7 @@ MeshFilter:
 --- !u!4 &1005733089
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1458,6 +1462,8 @@ MonoBehaviour:
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
+=======
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1465,8 +1471,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
+=======
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
   m_GameObject: {fileID: 1005733084}
@@ -1491,6 +1500,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 5
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
+=======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
