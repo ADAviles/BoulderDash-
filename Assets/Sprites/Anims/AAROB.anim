@@ -34,10 +34,13 @@ AnimationClip:
 =======
         time: 5.5833335
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
         time: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+>>>>>>> parent of 702aa94... Tuning
 =======
 >>>>>>> parent of 702aa94... Tuning
         value: {x: 0.62, y: 0.95326734, z: 4}
@@ -81,10 +84,13 @@ AnimationClip:
 =======
         time: 5.5833335
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
         time: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+>>>>>>> parent of 702aa94... Tuning
 =======
 >>>>>>> parent of 702aa94... Tuning
         value: 1
@@ -132,6 +138,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_StopTime: 3.2666667
 =======
     m_StopTime: 5.5833335
@@ -139,6 +146,9 @@ AnimationClip:
 =======
     m_StopTime: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+    m_StopTime: 5.5833335
+>>>>>>> parent of 702aa94... Tuning
 =======
     m_StopTime: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
@@ -176,10 +186,13 @@ AnimationClip:
 =======
         time: 5.5833335
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
         time: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+>>>>>>> parent of 702aa94... Tuning
 =======
 >>>>>>> parent of 702aa94... Tuning
         value: 0.62
@@ -215,10 +228,13 @@ AnimationClip:
 =======
         time: 5.5833335
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
         time: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+>>>>>>> parent of 702aa94... Tuning
 =======
 >>>>>>> parent of 702aa94... Tuning
         value: 0.95326734
@@ -254,10 +270,13 @@ AnimationClip:
 =======
         time: 5.5833335
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
         time: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+>>>>>>> parent of 702aa94... Tuning
 =======
 >>>>>>> parent of 702aa94... Tuning
         value: 4
@@ -302,10 +321,13 @@ AnimationClip:
 =======
         time: 5.5833335
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 702aa94... Tuning
 =======
         time: 3.2666667
 >>>>>>> parent of e364509... Update AAROB.anim
+=======
+>>>>>>> parent of 702aa94... Tuning
 =======
 >>>>>>> parent of 702aa94... Tuning
         value: 1
