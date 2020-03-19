@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6952ecdd29c4aa04e8c075269f2cc81f
+=======
+guid: d6f11b05ef1017e49b9137b5a8efa28b
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -519,8 +519,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 686760950}
   m_LocalRotation: {x: -0.20816666, y: -0, z: -0, w: 0.97809345}
+<<<<<<< HEAD
   m_LocalPosition: {x: 1.2, y: 2.84, z: 4.71}
   m_LocalScale: {x: 13.629949, y: 5.23951, z: 5.810406}
+=======
+  m_LocalPosition: {x: 5.55, y: 0.64, z: 0.39}
+  m_LocalScale: {x: 13.629949, y: 5.23951, z: 0.13566056}
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   m_Children: []
   m_Father: {fileID: 1000440317}
   m_RootOrder: 0
@@ -533,9 +538,15 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 686760950}
   serializedVersion: 2
+<<<<<<< HEAD
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
+=======
+  m_Mass: 0.1
+  m_Drag: 0
+  m_AngularDrag: 0.1
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -681,7 +692,11 @@ AudioSource:
   MinDistance: 1
   MaxDistance: 500
   Pan2D: 0
+<<<<<<< HEAD
   rolloffMode: 0
+=======
+  rolloffMode: 1
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -714,7 +729,11 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
+<<<<<<< HEAD
       value: 0
+=======
+      value: 1
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -765,6 +784,10 @@ GameObject:
   - component: {fileID: 1589453746}
   - component: {fileID: 1589453745}
   - component: {fileID: 1589453744}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 1589453747}
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -837,6 +860,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!114 &1589453747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589453743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0182c5ff98e8c8c459381419c8f74af0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 --- !u!1 &1639171298
 GameObject:
   m_ObjectHideFlags: 0
