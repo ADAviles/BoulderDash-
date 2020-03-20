@@ -522,6 +522,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 1.2, y: 2.84, z: 4.71}
   m_LocalScale: {x: 13.629949, y: 5.23951, z: 5.810406}
 =======
@@ -536,6 +537,10 @@ Transform:
   m_LocalPosition: {x: 1.2, y: 2.84, z: 4.71}
   m_LocalScale: {x: 13.629949, y: 5.23951, z: 5.810406}
 >>>>>>> parent of a6ec597... Update SplashScreen.unity
+=======
+  m_LocalPosition: {x: 5.55, y: 0.64, z: 0.39}
+  m_LocalScale: {x: 13.629949, y: 5.23951, z: 0.13566056}
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   m_Children: []
   m_Father: {fileID: 1000440317}
   m_RootOrder: 0
@@ -551,6 +556,7 @@ Rigidbody:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
@@ -569,6 +575,11 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
 >>>>>>> parent of a6ec597... Update SplashScreen.unity
+=======
+  m_Mass: 0.1
+  m_Drag: 0
+  m_AngularDrag: 0.1
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -717,6 +728,7 @@ AudioSource:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   rolloffMode: 0
 =======
   rolloffMode: 1
@@ -727,6 +739,9 @@ AudioSource:
 =======
   rolloffMode: 0
 >>>>>>> parent of 020edee... changed cursor
+=======
+  rolloffMode: 1
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -762,6 +777,7 @@ AudioSource:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0
 =======
       value: 1
@@ -772,6 +788,9 @@ AudioSource:
 =======
       value: 0
 >>>>>>> parent of 020edee... changed cursor
+=======
+      value: 1
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -825,6 +844,7 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - component: {fileID: 1589453747}
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -833,6 +853,9 @@ GameObject:
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 020edee... changed cursor
+=======
+  - component: {fileID: 1589453747}
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -908,7 +931,10 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 --- !u!114 &1589453747
@@ -924,11 +950,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 020edee... changed cursor
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 --- !u!1 &1639171298
 GameObject:
   m_ObjectHideFlags: 0

@@ -32,6 +32,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
@@ -48,6 +49,8 @@ AnimationClip:
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
         time: 5.5833335
         value: {x: 0.62, y: 0.95326734, z: 4}
         inSlope: {x: 0, y: 0, z: 0}
@@ -59,6 +62,9 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.8166666
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -101,6 +107,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
@@ -117,6 +124,8 @@ AnimationClip:
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
         time: 5.5833335
         value: 1
         inSlope: Infinity
@@ -128,6 +137,9 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.8166666
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -147,7 +159,10 @@ AnimationClip:
     script: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   - curve:
@@ -299,6 +314,9 @@ AnimationClip:
     classID: 212
     script: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -326,7 +344,10 @@ AnimationClip:
       isPPtrCurve: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
     - serializedVersion: 2
@@ -358,6 +379,9 @@ AnimationClip:
       customType: 22
       isPPtrCurve: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -367,6 +391,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -386,6 +411,9 @@ AnimationClip:
 =======
     m_StopTime: 5.5833335
 >>>>>>> parent of 702aa94... Tuning
+=======
+    m_StopTime: 6.8166666
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
     m_StopTime: 6.8166666
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -424,6 +452,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
@@ -440,6 +469,8 @@ AnimationClip:
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
         time: 5.5833335
         value: 0.62
         inSlope: 0
@@ -451,6 +482,9 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.8166666
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -485,6 +519,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
@@ -501,6 +536,8 @@ AnimationClip:
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
         time: 5.5833335
         value: 0.95326734
         inSlope: 0
@@ -512,6 +549,9 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.8166666
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -546,6 +586,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
@@ -562,6 +603,8 @@ AnimationClip:
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
         time: 5.5833335
         value: 4
         inSlope: 0
@@ -573,6 +616,9 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.8166666
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -616,6 +662,7 @@ AnimationClip:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         time: 3.2666667
 =======
         time: 5.5833335
@@ -632,6 +679,8 @@ AnimationClip:
 =======
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
         time: 5.5833335
         value: 1
         inSlope: Infinity
@@ -643,6 +692,9 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.8166666
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -662,7 +714,10 @@ AnimationClip:
     script: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
   - curve:
@@ -814,6 +869,9 @@ AnimationClip:
     classID: 212
     script: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
+=======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
