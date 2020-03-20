@@ -1329,6 +1329,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
@@ -1339,6 +1340,8 @@ MonoBehaviour:
 >>>>>>> parent of ea7f834... Merge branch 'master' of https://github.com/ADAviles/BoulderDash-
 =======
 >>>>>>> parent of ea7f834... Merge branch 'master' of https://github.com/ADAviles/BoulderDash-
+=======
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
 --- !u!1 &1005733084
@@ -1439,6 +1442,7 @@ MeshFilter:
   m_GameObject: {fileID: 1005733084}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1005733089
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1560,11 +1564,14 @@ MonoBehaviour:
 --- !u!4 &1005733089 stripped
 =======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
+=======
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
@@ -1576,6 +1583,8 @@ Transform:
 =======
 >>>>>>> parent of 1a7d2e6... Revert "Merge branch 'master' of https://github.com/ADAviles/BoulderDash-"
 =======
+=======
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
   m_GameObject: {fileID: 1005733084}
   m_LocalRotation: {x: 0.2081666, y: -0, z: -0, w: 0.97809345}
   m_LocalPosition: {x: 1, y: 7.08, z: -16.54}
@@ -1597,6 +1606,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 5
+<<<<<<< HEAD
+>>>>>>> parent of 3e64e6f... Added SplashScreen scene
+=======
 >>>>>>> parent of 3e64e6f... Added SplashScreen scene
 --- !u!1 &1047943140
 GameObject:
