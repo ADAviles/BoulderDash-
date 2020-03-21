@@ -64,13 +64,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AdrielAviles\AAROB_materialSwap.cs" />
-    <Compile Include="Assets\Reset.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\DisplaySpeed.cs" />
     <Compile Include="Assets\Scripts\EnableCursor.cs" />
     <Compile Include="Assets\Scripts\HideCursor.cs" />
     <Compile Include="Assets\Scripts\Hooman.cs" />
     <Compile Include="Assets\Scripts\NullChildRotate.cs" />
+    <Compile Include="Assets\Scripts\Reset.cs" />
     <Compile Include="Assets\Scripts\Restart.cs" />
     <Compile Include="Assets\Scripts\SC_Boulder.cs" />
     <Compile Include="Assets\Scripts\SplashTransition.cs" />
