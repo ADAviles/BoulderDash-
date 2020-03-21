@@ -60,12 +60,12 @@ public class AAROB_materialSwap : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
+        if (Input.GetKey(KeyCode.Q))
         {
             rend.sharedMaterial = mat2;
         }
 
-        if (Input.GetKeyDown(KeyCode.W))
+        if (Input.GetKey(KeyCode.W))
         {
             rend.sharedMaterial = mat1;
         }
