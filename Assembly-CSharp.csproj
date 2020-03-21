@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AdrielAviles\AAROB_materialSwap.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\HideCursor.cs" />
     <Compile Include="Assets\Scripts\Hooman.cs" />
