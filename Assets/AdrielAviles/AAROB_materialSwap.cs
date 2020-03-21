@@ -39,6 +39,7 @@ public class AAROB_materialSwap : MonoBehaviour
         rb.AddForce(movement * speed);
 
         GetComponent<Collider>().material = rubber;
+        transform.gameObject.tag = "Rubber";
     }
 
     private void stoneball()
@@ -53,6 +54,7 @@ public class AAROB_materialSwap : MonoBehaviour
         rb.AddForce(movement * speed);
 
         GetComponent<Collider>().material = regular;
+        transform.gameObject.tag = "Boulder";
     }
 
     // Update is called once per frame
