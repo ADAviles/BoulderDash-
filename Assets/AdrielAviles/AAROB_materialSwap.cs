@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class AAROB_materialSwap : MonoBehaviour
 {
     private float speed;
 
@@ -10,8 +10,14 @@ public class NewBehaviourScript : MonoBehaviour
 
     private Renderer rend;
 
+    private Collider col;
+
     public Material mat1;
     public Material mat2;
+
+    public PhysicMaterial regular;
+    public PhysicMaterial rubber;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +29,7 @@ public class NewBehaviourScript : MonoBehaviour
 
     private void rubberball()
     {
-        speed = 2.0f;
+        speed = 10.0f;
 
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
@@ -31,6 +37,8 @@ public class NewBehaviourScript : MonoBehaviour
         Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
 
         rb.AddForce(movement * speed);
+
+        GetComponent<Collider>().material = rubber;
     }
 
     private void stoneball()
@@ -43,6 +51,8 @@ public class NewBehaviourScript : MonoBehaviour
         Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
 
         rb.AddForce(movement * speed);
+
+        GetComponent<Collider>().material = regular;
     }
 
     // Update is called once per frame
