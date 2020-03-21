@@ -9,11 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SplashScreen.unity
     guid: ee5df1008c6debf4ca60b2c407d224dc
   - enabled: 1
-<<<<<<< HEAD
     path: Assets/LeeRichard/LeeScene.unity
     guid: 7f91dacab79e0604b82b429c95b35912
-=======
-    path: Assets/Scenes/MainMenu.unity
-    guid: 10a109886415de54b870476b13f45481
->>>>>>> c6356b11198f3352f08f8fbcb661e178b67051b4
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 50729750cd884054a839c69b7af70d47
   m_configObjects: {}
