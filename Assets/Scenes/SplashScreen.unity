@@ -226,6 +226,7 @@ GameObject:
   - component: {fileID: 151670202}
   - component: {fileID: 151670205}
   - component: {fileID: 151670204}
+  - component: {fileID: 151670206}
   m_Layer: 0
   m_Name: AAROB
   m_TagString: Untagged
@@ -309,7 +310,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b86d6e51e446d7442aa671a8cb691a67, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.676
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -412,6 +413,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &151670206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 151670201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e781aeb364498a499edd3f549d09bea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &222939889
 GameObject:
   m_ObjectHideFlags: 0
