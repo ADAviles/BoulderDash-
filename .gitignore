@@ -14459,3 +14459,5 @@ Temp/UnityTempFile-f81a8bedfdadd504b9c350d015eb57d2
 Assembly-CSharp.csproj
 *.csproj
 *.json
+Assembly-CSharp.csproj
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
