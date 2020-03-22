@@ -13,7 +13,7 @@ public class DisplaySpeed : MonoBehaviour
 
     void OnGUI()
     {
-        GUI.Box(new Rect(10, 10, 100, 90), "Measurements");
+        GUI.Box(new Rect(10, 10, 100, 90), "Momentum");
 
         GUI.Label(new Rect(20, 40, 80, 20), speed + "m/s");
     }
