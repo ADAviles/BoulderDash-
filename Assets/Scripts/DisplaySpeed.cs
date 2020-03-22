@@ -4,18 +4,25 @@ using UnityEngine;
 
 public class DisplaySpeed : MonoBehaviour
 {
-    private float speed;
+    public float speed;
+    private Rigidbody rb;
 
-    void FixedUpdated()
+    private void Start()
     {
-        speed = GetComponent<Rigidbody>().velocity.magnitude;
+        rb = GetComponent<Rigidbody>();
+    }
+
+    private void Update()
+    {
+        speed = rb.velocity.magnitude;
+        
     }
 
     void OnGUI()
     {
-        GUI.Box(new Rect(10, 10, 100, 90), "Momentum");
+        GUI.Box(new Rect(10, 10, 100, 50), "Momentum");
 
-        GUI.Label(new Rect(20, 40, 80, 20), speed + "m/s");
+        GUI.Label(new Rect(20, 40, 80, 20), "      " + Mathf.Round(speed) + " " + "m/s");
     }
 
 }
