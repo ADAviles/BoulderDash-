@@ -16,13 +16,13 @@ public class DisplaySpeed : MonoBehaviour
     {
        
         speed = rb.velocity.magnitude;
-        speed = Mathf.PI;
+        
 
     }
 
     void OnGUI()
     {
-        GUI.Box(new Rect(10, 10, 100, 90), "Momentum");
+        GUI.Box(new Rect(10, 10, 100, 50), "Momentum");
 
         GUI.Label(new Rect(20, 40, 80, 20), speed + "m/s");
     }
