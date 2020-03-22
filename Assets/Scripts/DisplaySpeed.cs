@@ -6,6 +6,11 @@ public class DisplaySpeed : MonoBehaviour
 {
     private float speed;
 
+    private void Start()
+    {
+       speed = GetComponent<Rigidbody>().velocity.magnitude;
+    }
+
     void FixedUpdated()
     {
         speed = GetComponent<Rigidbody>().velocity.magnitude;
