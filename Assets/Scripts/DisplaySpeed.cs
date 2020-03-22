@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DisplaySpeed : MonoBehaviour
 {
-    private float speed;
+    public float speed;
     private Rigidbody rb;
 
     private void Start()
@@ -12,9 +12,12 @@ public class DisplaySpeed : MonoBehaviour
         rb = GetComponent<Rigidbody>();
     }
 
-    void FixedUpdated()
+    private void Update()
     {
+       
         speed = rb.velocity.magnitude;
+        speed = Mathf.PI;
+
     }
 
     void OnGUI()
