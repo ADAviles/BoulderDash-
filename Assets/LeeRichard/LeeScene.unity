@@ -1222,6 +1222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1fa7b57e90287444afb19e410a07896, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ballspeed: 0
 --- !u!1 &419273604
 GameObject:
   m_ObjectHideFlags: 0
@@ -1300,7 +1301,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-145286
+  m_Name: pb_Mesh-5664
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6699,6 +6700,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ResetZone
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 77.13478
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 1.1660843
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 74.66361
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Center.z
+      value: -29.723942
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb8d073d2b420a2418cffc0f375eec70, type: 3}
