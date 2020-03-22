@@ -22,7 +22,7 @@ public class DisplaySpeed : MonoBehaviour
     {
         GUI.Box(new Rect(10, 10, 100, 50), "Momentum");
 
-        GUI.Label(new Rect(20, 40, 80, 20), Mathf.Round(speed) + "m/s");
+        GUI.Label(new Rect(20, 40, 80, 20), "      " + Mathf.Round(speed) + " " + "m/s");
     }
 
 }
