@@ -65,7 +65,7 @@ public class AAROB_materialSwap : MonoBehaviour
             rend.sharedMaterial = mat2;
         }
 
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.E))
         {
             rend.sharedMaterial = mat1;
         }
