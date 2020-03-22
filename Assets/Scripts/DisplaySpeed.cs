@@ -14,17 +14,15 @@ public class DisplaySpeed : MonoBehaviour
 
     private void Update()
     {
-       
         speed = rb.velocity.magnitude;
         
-
     }
 
     void OnGUI()
     {
         GUI.Box(new Rect(10, 10, 100, 50), "Momentum");
 
-        GUI.Label(new Rect(20, 40, 80, 20), speed + "m/s");
+        GUI.Label(new Rect(20, 40, 80, 20), "      " + Mathf.Round(speed) + " " + "m/s");
     }
 
 }
