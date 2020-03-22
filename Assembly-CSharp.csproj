@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\DisplaySpeed.cs" />
     <Compile Include="Assets\Scripts\EnableCursor.cs" />
+    <Compile Include="Assets\Scripts\Fell.cs" />
     <Compile Include="Assets\Scripts\HideCursor.cs" />
     <Compile Include="Assets\Scripts\Hooman.cs" />
     <Compile Include="Assets\Scripts\LoadNextScene.cs" />
