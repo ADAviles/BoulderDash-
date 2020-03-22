@@ -5,15 +5,16 @@ using UnityEngine;
 public class DisplaySpeed : MonoBehaviour
 {
     private float speed;
+    private Rigidbody rb;
 
     private void Start()
     {
-       speed = GetComponent<Rigidbody>().velocity.magnitude;
+        rb = GetComponent<Rigidbody>();
     }
 
     void FixedUpdated()
     {
-        speed = GetComponent<Rigidbody>().velocity.magnitude;
+        speed = rb.velocity.magnitude;
     }
 
     void OnGUI()
