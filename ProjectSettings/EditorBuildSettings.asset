@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 10a109886415de54b870476b13f45481
   - enabled: 1
+    path: Assets/RyanDixon/RyanDixon_Scene.unity
+    guid: a1891b8eb85bb63478792fd6c2e7fa8b
+  - enabled: 1
     path: Assets/LeeRichard/LeeScene.unity
     guid: 7f91dacab79e0604b82b429c95b35912
   - enabled: 1
