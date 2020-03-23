@@ -11065,7 +11065,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 1e-45, z: 1e-45, w: 1e-45}
+  m_BoundingSphereOverride: {x: 0.0000008142067, y: 6.323129e-19, z: 6337696, w: NaN}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -19219,7 +19219,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-13102
+  m_Name: pb_Mesh-1398
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23366,6 +23366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: requiredSpeed
       value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498535656812676974, guid: 4fd08d11498dba94490cf7711a47d6d8,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5498535656812676979, guid: 4fd08d11498dba94490cf7711a47d6d8,
         type: 3}
@@ -30364,6 +30369,27 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &2057608240 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5498535656812676977, guid: 4fd08d11498dba94490cf7711a47d6d8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1622434681}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2057608242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2057608240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e9e2fa068639347a74e26d7d25efa2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ball: {fileID: 1005733084}
+  ballSpeed: 0
+  requiredSpeed: 15
 --- !u!1 &2084866792
 GameObject:
   m_ObjectHideFlags: 0

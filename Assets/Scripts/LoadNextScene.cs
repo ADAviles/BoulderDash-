@@ -19,7 +19,7 @@ public class LoadNextScene : MonoBehaviour
         //Check if ball is "Boulder" and speed of ball is fast enough here
         if (collision.gameObject.tag == "Boulder" && ballSpeed >= requiredSpeed)
         {
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 
         //If the ball speed is 0 for too long a period of time, then reset player to start of level

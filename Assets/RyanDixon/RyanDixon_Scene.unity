@@ -3098,6 +3098,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: ResetZone
       objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 149.7968
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Center.y
+      value: -0.00015608619
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 16.68435
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb8d073d2b420a2418cffc0f375eec70, type: 3}
 --- !u!43 &286136887
@@ -8597,7 +8612,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2332
+  m_Name: pb_Mesh-5672
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
