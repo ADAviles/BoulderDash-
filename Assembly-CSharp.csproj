@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\AdrielAviles\AAROB_materialSwap.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\Credits.cs" />
     <Compile Include="Assets\Scripts\DisplaySpeed.cs" />
     <Compile Include="Assets\Scripts\EnableCursor.cs" />
     <Compile Include="Assets\Scripts\Fell.cs" />
