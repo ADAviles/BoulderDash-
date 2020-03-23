@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LoadNextScene : MonoBehaviour
+
+public class LoadMainMenu : MonoBehaviour
 {
     public GameObject ball;
+
     public float ballSpeed;
     public float requiredSpeed;
     // Update is called once per frame
