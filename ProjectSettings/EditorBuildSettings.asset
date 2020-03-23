@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/adrieltestscene.unity
     guid: 8e50f73e922811446adeefa2f1689ed9
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
-    guid: 50729750cd884054a839c69b7af70d47
+    path: Assets/Adan/Lvl1-Adan 3.unity
+    guid: 4c85f0b1438870c40a56ca7df93073fb
+  - enabled: 1
+    path: Assets/Adan/Lvl2-Adan.unity
+    guid: fd2cc299e1bc4044b8344c97e71749f7
   m_configObjects: {}
