@@ -21,11 +21,12 @@ public class DisplaySpeed : MonoBehaviour
 
     void OnGUI()
     {
-        GUI.Box(new Rect(10, 10, 100, 50), "Momentum");
+        GUI.Box(new Rect(10, 10, 150, 70), "Momentum");
 
-        GUI.Label(new Rect(20, 40, 80, 20), "      " + Mathf.Round(speed) + " " + "m/s");
+        GUI.Label(new Rect(40, 40, 80, 20), "      " + Mathf.Round(speed) + " " + "m/s");
+        GUI.Label(new Rect(30, 55, 120, 20), "Required Speed: " + requiredspeed);
 
-        GUI.Box(new Rect(1000, 10, 120, 50), "Required Speed: " + requiredspeed);
+        
     }
 
 }
