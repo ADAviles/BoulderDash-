@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.38444096, g: 0.47178137, b: 0.6176216, a: 1}
+  m_IndirectSpecularColor: {r: 0.38444075, g: 0.47178155, b: 0.61762166, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4195,7 +4195,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-57236
+  m_Name: pb_Mesh-10640
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -4426,7 +4426,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 8.69e-43, y: 1.04e-43, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 6.92e-43, y: 3.8254337, z: 6.92e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -4777,6 +4777,16 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 689166694}
+    - target: {fileID: 5498535656812676974, guid: 4fd08d11498dba94490cf7711a47d6d8,
+        type: 3}
+      propertyPath: requiredSpeed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5498535656812676974, guid: 4fd08d11498dba94490cf7711a47d6d8,
+        type: 3}
+      propertyPath: ball
+      value: 
+      objectReference: {fileID: 1005733084}
     - target: {fileID: 5498535656812676979, guid: 4fd08d11498dba94490cf7711a47d6d8,
         type: 3}
       propertyPath: m_Mesh
@@ -12599,7 +12609,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0
-  requiredspeed: 0
+  requiredspeed: 20
 --- !u!43 &1031802394
 Mesh:
   m_ObjectHideFlags: 0

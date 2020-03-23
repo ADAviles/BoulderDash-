@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.38444096, g: 0.47178137, b: 0.6176216, a: 1}
+  m_IndirectSpecularColor: {r: 0.38444075, g: 0.47178155, b: 0.61762166, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -315,7 +315,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-61684
+  m_Name: pb_Mesh-7082
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1500,17 +1500,17 @@ PrefabInstance:
     - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
         type: 3}
       propertyPath: m_Center.y
-      value: -0.000014972123
+      value: -0.0005002293
       objectReference: {fileID: 0}
     - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
         type: 3}
       propertyPath: m_Center.z
-      value: 14.648419
+      value: 125.1358
       objectReference: {fileID: 0}
     - target: {fileID: 4113469294613028498, guid: cb8d073d2b420a2418cffc0f375eec70,
         type: 3}
       propertyPath: m_Size.z
-      value: 157.83746
+      value: 378.81158
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb8d073d2b420a2418cffc0f375eec70, type: 3}
@@ -4802,7 +4802,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 8.69e-43, y: 1.04e-43, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -6590,6 +6590,16 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 172777200}
+    - target: {fileID: 5498535656812676974, guid: 4fd08d11498dba94490cf7711a47d6d8,
+        type: 3}
+      propertyPath: ball
+      value: 
+      objectReference: {fileID: 1005733084}
+    - target: {fileID: 5498535656812676974, guid: 4fd08d11498dba94490cf7711a47d6d8,
+        type: 3}
+      propertyPath: requiredSpeed
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 5498535656812676979, guid: 4fd08d11498dba94490cf7711a47d6d8,
         type: 3}
       propertyPath: m_Mesh
@@ -7924,6 +7934,7 @@ GameObject:
   - component: {fileID: 1005733085}
   - component: {fileID: 1005733090}
   - component: {fileID: 1005733091}
+  - component: {fileID: 1005733092}
   m_Layer: 0
   m_Name: Boulder
   m_TagString: Untagged
@@ -8050,6 +8061,20 @@ MonoBehaviour:
   mat2: {fileID: 2100000, guid: f01557884fea59d49a1997a00fd79ad5, type: 2}
   regular: {fileID: 13400000, guid: 23d9b5c90f3e6b5479c1069af80d3b07, type: 2}
   rubber: {fileID: 13400000, guid: 6eacee73231245a499b2ff56e9f10ae3, type: 2}
+--- !u!114 &1005733092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1005733084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98383a06333d2254aa4bb1b1d4210cec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  requiredspeed: 15
 --- !u!1 &1008007365
 GameObject:
   m_ObjectHideFlags: 0
@@ -9828,7 +9853,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-61682
+  m_Name: pb_Mesh-7080
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13763,7 +13788,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-61688
+  m_Name: pb_Mesh-7086
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16000,7 +16025,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-61626
+  m_Name: pb_Mesh-7006
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
