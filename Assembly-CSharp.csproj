@@ -66,12 +66,15 @@
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Credits.cs" />
     <Compile Include="Assets\Scripts\DisplaySpeed.cs" />
+    <Compile Include="Assets\Scripts\Door.cs" />
     <Compile Include="Assets\Scripts\EnableCursor.cs" />
     <Compile Include="Assets\Scripts\Fell.cs" />
     <Compile Include="Assets\Scripts\HideCursor.cs" />
     <Compile Include="Assets\Scripts\Hooman.cs" />
+    <Compile Include="Assets\Scripts\LoadMainMenu.cs" />
     <Compile Include="Assets\Scripts\LoadNextScene.cs" />
     <Compile Include="Assets\Scripts\NullChildRotate.cs" />
+    <Compile Include="Assets\Scripts\PortalToNextLevel.cs" />
     <Compile Include="Assets\Scripts\QuitScript.cs" />
     <Compile Include="Assets\Scripts\Reset.cs" />
     <Compile Include="Assets\Scripts\Restart.cs" />
@@ -129,6 +132,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/Brendan_2/Documents/BoulderDash-/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>C:/Users/Brendan_2/Documents/BoulderDash-/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
       <HintPath>C:/Users/Brendan_2/Documents/BoulderDash-/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
