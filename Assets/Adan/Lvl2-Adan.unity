@@ -4264,7 +4264,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11580
+  m_Name: pb_Mesh115506
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -4972,7 +4972,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Goal
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5498535656812676974, guid: 4fd08d11498dba94490cf7711a47d6d8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 4fd08d11498dba94490cf7711a47d6d8, type: 3}
 --- !u!43 &820400880
 Mesh:
@@ -20570,7 +20571,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11584
+  m_Name: pb_Mesh-152418
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -22640,7 +22641,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-11578
+  m_Name: pb_Mesh-152414
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
