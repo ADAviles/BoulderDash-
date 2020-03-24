@@ -7,6 +7,7 @@ TagManager:
   - Boulder
   - Rubber
   - Fallen
+  - Ground
   layers:
   - Default
   - TransparentFX
