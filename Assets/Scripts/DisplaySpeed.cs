@@ -9,6 +9,8 @@ public class DisplaySpeed : MonoBehaviour
     public int requiredspeed;
     private AudioSource auS;
     public bool play;
+    public AudioSource boo;
+    public AudioSource splat;
 
     private void Start()
     {
@@ -57,5 +59,13 @@ public class DisplaySpeed : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         play = false;
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Cat") || other.CompareTag("Dog"))
+        {
+            boo.Play();
+        }
+      
     }
 }

@@ -8,6 +8,9 @@ TagManager:
   - Rubber
   - Fallen
   - Ground
+  - Cat
+  - Dog
+  - Hooman
   layers:
   - Default
   - TransparentFX

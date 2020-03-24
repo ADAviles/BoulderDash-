@@ -5,6 +5,7 @@ using UnityEngine;
 public class Hooman : MonoBehaviour
 {
     private Animator anim;
+    public AudioSource splat;
 
     void Start()
     {
@@ -22,6 +23,17 @@ public class Hooman : MonoBehaviour
         if (other.CompareTag("Boulder"))
         {
             anim.SetBool("hit", true);
+            
         }
+    }
+
+    public void Splat()
+    {
+        splat.Play();
+    }
+
+    public void Delete()
+    {
+        Destroy(gameObject);
     }
 }

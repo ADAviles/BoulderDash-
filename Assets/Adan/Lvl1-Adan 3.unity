@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: cdbb40e11399e4a17882ada20a1b896a, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: b4f152e0498484391a9f0d5a1facf03b, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.38444096, g: 0.47178137, b: 0.6176216, a: 1}
+  m_IndirectSpecularColor: {r: 0.13015562, g: 0.09557039, b: 0.12492945, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2079,6 +2079,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c09f862ee513e114bbd3ac2f4d34c37e, type: 3}
+--- !u!1001 &905531641
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3978141835046723461, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_Name
+      value: Doggo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.014513
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.787
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.113
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.15985349
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.26607826
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12154602
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9428021
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 13.694
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 33.807003
+      objectReference: {fileID: 0}
+    - target: {fileID: 3978141835046723466, guid: 46c182a5b6320104298b9553694e3e67,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 18.872002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 46c182a5b6320104298b9553694e3e67, type: 3}
 --- !u!43 &942054795
 Mesh:
   m_ObjectHideFlags: 0
@@ -2325,7 +2394,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 43.404003, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
@@ -2713,7 +2782,7 @@ Transform:
   - {fileID: 1142135448}
   - {fileID: 1734853193}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1142135447
 GameObject:
