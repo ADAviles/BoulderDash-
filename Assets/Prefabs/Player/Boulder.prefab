@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 8412342146970923049}
   - component: {fileID: -4730604063684182374}
   - component: {fileID: -6363150807595739968}
+  - component: {fileID: 1283313680512759855}
   m_Layer: 0
   m_Name: Boulder
   m_TagString: Untagged
@@ -157,6 +158,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0
   requiredspeed: 0
+  play: 0
 --- !u!82 &-6363150807595739968
 AudioSource:
   m_ObjectHideFlags: 0
@@ -253,3 +255,16 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!135 &1283313680512759855
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2000689204834613732}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.69580185
+  m_Center: {x: 0.19580185, y: 0, z: 0}
